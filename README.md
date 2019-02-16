@@ -10,3 +10,8 @@ C, C++, Unity, Javascript Repository 생성했음.
 # 2019년 2월 16일
 
 Github+ Unity 관련 자료 업로드
+
+# 2019년 2월 19일
+
+Unity 전체 수업에 대한 동영상 제작 시작. 
+강좌 정리 DM501,502
